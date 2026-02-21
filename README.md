@@ -1,5 +1,5 @@
-#My Linux Cheat Sheet 🐧
-#NGD Linux Unhatched
+# My Linux Cheat Sheet 🐧
+# NGD Linux Unhatched
  
  Command   | Description                         | Example 
  
